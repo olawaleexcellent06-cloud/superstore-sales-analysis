@@ -64,3 +64,21 @@ The analysis was completed in the following stages:
 - Phones generated the highest sales (**$330,007.05**).
 - Chairs ranked second (**$328,449.10**).
 - Fasteners generated the lowest sales (**$3,024.28**).
+
+- ## Business Recommendations
+Based on the analysis, the following recommendations were identified:
+- Increase inventory and marketing efforts for high-performing products such as Phones and Chairs.
+- Investigate the Central region to identify factors contributing to lower profitability.
+- Prepare inventory ahead of peak sales periods, particularly November and December.
+- Develop targeted campaigns to improve sales during slower months such as February.
+- Focus on retaining Consumer segment customers while identifying opportunities to grow Corporate and Home Office sales.
+
+- ## Repository Structure
+superstore-sales-analysis/
+│
+├── Dataset/
+├── Excel/
+├── Images/
+├── SQL/
+└── README.md
+
