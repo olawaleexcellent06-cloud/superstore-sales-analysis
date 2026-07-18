@@ -96,3 +96,8 @@ superstore-sales-analysis/
 - Data Visualization
 - Microsoft Excel
 - MySQL
+
+- ## Dataset
+- Source: Sample Superstore Dataset
+- Records: 9,994
+- Features: Sales, Profit, Category, Region, Segment, Customer, Shipping, Quantity, Order Date
