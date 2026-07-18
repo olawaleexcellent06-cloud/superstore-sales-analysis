@@ -76,6 +76,9 @@ Based on the analysis, the following recommendations were identified:
 - ## Repository Structure
 superstore-sales-analysis/
 │
+## Dashboard Preview
+
+![Superstore Dashboard](Images/dashboard.png)
 ├── Dataset/
 ├── Excel/
 ├── Images/
