@@ -78,7 +78,7 @@ superstore-sales-analysis/
 │
 ## Dashboard Preview
 
-![Superstore Dashboard](Images/dashboard.png)
+![Superstore Dashboard]
 ├── Dataset/
 ├── Excel/
 ├── Images/
