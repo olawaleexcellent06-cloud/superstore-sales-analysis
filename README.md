@@ -76,8 +76,8 @@ Based on the analysis, the following recommendations were identified:
 - ## Repository Structure
 superstore-sales-analysis/
 │
-## Dashboard Preview
 
+## Dashboard Preview
 ![Superstore Dashboard]
 ├── Dataset/
 ├── Excel/
@@ -85,3 +85,14 @@ superstore-sales-analysis/
 ├── SQL/
 └── README.md
 
+## Skills Demonstrated
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- SQL Querying
+- Business Analysis
+- Dashboard Development
+- KPI Reporting
+- Pivot Tables
+- Data Visualization
+- Microsoft Excel
+- MySQL
